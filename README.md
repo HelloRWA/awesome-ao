@@ -46,6 +46,7 @@ The hyper parallel computer.
 ### The Testnet Show
 
 - [0301: Episode 1](https://twitter.com/PSkinnerTech/status/1763376344581230943)
+- [0302: Episode 2](https://twitter.com/PSkinnerTech/status/1763708893182472577)
 - [0303: Episode 3 People are paying attention to the hyper parallel computer!](https://twitter.com/aoTheComputer/status/1763987298012586204)
 - [0305: Episode 4 The hyper parallel computer is absolutely buzzing with activity.](https://twitter.com/aoTheComputer/status/1764847266437960046)
 - [0306: Episode 5 ao and Arweave transaction stats are going to the moon!🚀](https://twitter.com/aoTheComputer/status/1765142642541891713)
