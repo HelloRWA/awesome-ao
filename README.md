@@ -1,5 +1,7 @@
 ## Awesome AO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/HelloRWA/awesome-ao)
 
+![AO](https://cookbook_ao.g8way.io/ao_pictograph_lightmode.svg)
+
 > A curated list of awesome things related to [AO](https://ao.arweave.dev/).
 
 The hyper parallel computer.
