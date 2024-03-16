@@ -47,16 +47,12 @@ The hyper parallel computer.
 
 - Add yours by making a PR :heart:
 
-### Open source projects using Nuxt
+### Open source projects using AO
 
 
 | Name | Description | Repository |
 |---|---|---|
 
-### Projects Using Nuxt
+### Projects Using AO
   
 > Please don't hesitate to make a PR if you have more resources to share.
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
