@@ -12,7 +12,6 @@ The hyper parallel computer.
 - [Official Examples](#official-examples)
 - [AO Quests](#ao-quests)
 - [The Testnet Show](#the-testnet-show)
-- [Today on ao](#today-on-ao)
 - [AO Memos](#ao-memos)
 - [Community](#community)
 - [Community Examples](#community-examples)
@@ -54,10 +53,6 @@ The hyper parallel computer.
 - [0311: It only takes a few minutes to create and deploy a token on ao.](https://twitter.com/aoTheComputer/status/1766942885809901864)
 - [0314: Episode 7 Meme coins and DAOs have arrived on ao!](https://twitter.com/aoTheComputer/status/1767950102180810925)
 - [0315: Episode 8 Boot up ao to complete Quests and earn CRED Testnet Tokens today!](https://twitter.com/aoTheComputer/status/1768317921548501389)
-
-### Today on ao
-
-- [0310](https://twitter.com/samecwilliams/status/1766641745519927408)
 
 ### AO Memos
 
