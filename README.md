@@ -65,6 +65,7 @@ The hyper parallel computer.
 - [Always has been.](https://twitter.com/aoTheComputer/status/1765767671327719546)
 - [What the **** do you want?](https://twitter.com/aoTheComputer/status/1766532348890554723)
 - [AO Network testneti ve kredileri cüzdana çekme hakkında bir repo:](https://twitter.com/Ruesandora0/status/1766579273630994690)
+- [A technical overview of how ao works](https://twitter.com/aoTheComputer/status/1770532696726581364)
 
 ### Community
 
