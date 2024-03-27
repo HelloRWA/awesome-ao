@@ -88,6 +88,7 @@ The hyper parallel computer.
 ### Articles
 
 - [Unlocking the Power of AO: A Deep Dive into the Hyper-Parallel Computer](https://twitter.com/TRue_JDHarmony/status/1768490153117405621)
+- [Meet AOS: The Operating System of the First Hyper-Parallel Computer](https://levelup.gitconnected.com/meet-aos-the-operating-system-of-the-first-hyper-parallel-computer-c1d7db3ef794)
 - Add yours by making a PR :heart:
 
 
