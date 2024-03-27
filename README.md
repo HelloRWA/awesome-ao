@@ -105,7 +105,7 @@ The hyper parallel computer.
 1. How to send CRED to your Arweave Address?
 
 ```lua
-.load-blueprint credUtils
+.load-blueprint credUtils -- source code: https://github.com/permaweb/aos/blob/main/blueprints/credUtils.lua
 CRED.update
 CRED.balance
 CRED.send('your-ar-address', '1000') -- send to `your-ar-address` 1 CRED
