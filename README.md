@@ -94,10 +94,21 @@ The hyper parallel computer.
 
 ### Open source projects using AO
 
-
 | Name | Description | Repository |
 |---|---|---|
 
 ### Projects Using AO
+
+
+### FAQ
+
+1. How to send CRED to your Arweave Address?
+
+```lua
+.load-blueprint credUtils
+CRED.update
+CRED.balance
+CRED.send('your-ar-address', '1000') -- send to `your-ar-address` 1 CRED
+```
   
 > Please don't hesitate to make a PR if you have more resources to share.
